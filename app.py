@@ -4,7 +4,7 @@ import re
 import nltk
 from nltk.corpus import stopwords
 
-nltk.download('stopwords')
+nltk.download("stopwords")
 
 model = joblib.load("model/svm_linear.pkl")
 tfidf = joblib.load("model/tfidf.pkl")
