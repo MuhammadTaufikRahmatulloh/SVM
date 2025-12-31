@@ -5,7 +5,10 @@ import nltk
 from nltk.corpus import stopwords
 
 nltk.download('stopwords')
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8538a2a8bd2b8b1b58a0b269846e30a6cbdaa438
 # ======================
 # CONFIG HALAMAN
 # ======================
